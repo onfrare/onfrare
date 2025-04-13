@@ -6,7 +6,7 @@
 - 🧠 Gosto de criar sistemas desafiadores com Python e desenvolver o frontend usando o framework Flet
 - 📊 Também automatizo planilhas com VBA para ganhar tempo e eficiência
 - 🎯 Estou criando alguns projetos que ensinam matemática, física e astronomia de uma forma mais fácil
-- 📫 Como falar comigo: [Twitter](https://x.com/_Frare_) | natanfrare@gmail.com
+- 📫 Como falar comigo: [Twitter](https://x.com/_Frare_) | [GMAIL](natanfrare@gmail.com)
 ---
 ### 🇺🇸 About me (English)
 - 👨‍💻 I'm a developer and Physics undergrad student at the **State University of Campinas (UNICAMP)**
@@ -14,7 +14,7 @@
 - 🧠 I enjoy building challenging systems in Python and creating frontends with the Flet framework
 - 📊 I also automate spreadsheets with VBA to boost productivity
 - 🎯 Currently creating projects that teach mathematics, physics, and astronomy in an easier way
-- 📫 How to reach me: [Twitter](https://x.com/_Frare_) | natanfrare@gmail.com
+- 📫 How to reach me: [Twitter](https://x.com/_Frare_) | [GMAIL](natanfrare@gmail.com)
 ---
 ### ⚡ Curiosidades / Fun facts
 - 🛠️ Estudei manutenção de computadores e servidores, e sempre estou mexendo com projetos de desenvolvimento como hobby  
